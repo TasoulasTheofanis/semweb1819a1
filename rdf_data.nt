@@ -1,0 +1,36 @@
+_:b1 <http://host/sw/p15taso/myvocab#Μάθημα> <http://host/sw/p15taso/resource/Διοίκηση%20Ασφάλειας%20Πληροφοριακών%20Συστημάτων%20> .
+_:b1 <http://host/sw/p15taso/myvocab#Διδάσκων> <http://host/sw/p15taso/resource/Τσώχου%20Α.> .
+_:b1 <http://host/sw/p15taso/myvocab#Ημέρα> "Δευτέρα" .
+_:b1 <http://host/sw/p15taso/myvocab#Ώρα Έναρξης> "15:00:00" .
+_:b1 <http://host/sw/p15taso/myvocab#Ώρα Τέλους> "17:00:00" .
+_:b1 <http://host/sw/p15taso/myvocab#Αίθουσα> <http://host/sw/p15taso/resource/Αίθουσα%203> .
+_:b2 <http://host/sw/p15taso/myvocab#Μάθημα> <http://host/sw/p15taso/resource/Επεξεργασία%20Ομιλίας%20και%20Ήχου> .
+_:b2 <http://host/sw/p15taso/myvocab#Διδάσκων> <http://host/sw/p15taso/resource/Καρύδης%20Ι.> .
+_:b2 <http://host/sw/p15taso/myvocab#Ημέρα> "Δευτέρα" .
+_:b2 <http://host/sw/p15taso/myvocab#Ώρα Έναρξης> "17:00:00" .
+_:b2 <http://host/sw/p15taso/myvocab#Ώρα Τέλους> "19:00:00" .
+_:b2 <http://host/sw/p15taso/myvocab#Αίθουσα> <http://host/sw/p15taso/resource/Αίθουσα%201> .
+_:b3 <http://host/sw/p15taso/myvocab#Μάθημα> <http://host/sw/p15taso/resource/Διοίκηση%20Ασφάλειας%20Πληροφοριακών%20Συστημάτων%20> .
+_:b3 <http://host/sw/p15taso/myvocab#Διδάσκων> <http://host/sw/p15taso/resource/Τσώχου%20Α.> .
+_:b3 <http://host/sw/p15taso/myvocab#Ημέρα> "Τρίτη" .
+_:b3 <http://host/sw/p15taso/myvocab#Ώρα Έναρξης> "11:00:00" .
+_:b3 <http://host/sw/p15taso/myvocab#Ώρα Τέλους> "13:00:00" .
+_:b3 <http://host/sw/p15taso/myvocab#Αίθουσα> <http://host/sw/p15taso/resource/Αίθουσα%203> .
+_:b4 <http://host/sw/p15taso/myvocab#Μάθημα> <http://host/sw/p15taso/resource/Κοινωνικός%20και%20Σημασιολογικός%20Ιστός> .
+_:b4 <http://host/sw/p15taso/myvocab#Διδάσκων> <http://host/sw/p15taso/resource/Μυλωνάς%20Φ.> .
+_:b4 <http://host/sw/p15taso/myvocab#Ημέρα> "Τετάρτη" .
+_:b4 <http://host/sw/p15taso/myvocab#Ώρα Έναρξης> "09:00:00" .
+_:b4 <http://host/sw/p15taso/myvocab#Ώρα Τέλους> "11:00:00" .
+_:b4 <http://host/sw/p15taso/myvocab#Αίθουσα> <http://host/sw/p15taso/resource/Αίθουσα%201> .
+_:b5 <http://host/sw/p15taso/myvocab#Μάθημα> <http://host/sw/p15taso/resource/Κοινωνικός%20και%20Σημασιολογικός%20Ιστός> .
+_:b5 <http://host/sw/p15taso/myvocab#Διδάσκων> <http://host/sw/p15taso/resource/Στεφανιδάκης%20Μ.> .
+_:b5 <http://host/sw/p15taso/myvocab#Ημέρα> "Πέμπτη" .
+_:b5 <http://host/sw/p15taso/myvocab#Ώρα Έναρξης> "15:00:00" .
+_:b5 <http://host/sw/p15taso/myvocab#Ώρα Τέλους> "17:00:00" .
+_:b5 <http://host/sw/p15taso/myvocab#Αίθουσα> <http://host/sw/p15taso/resource/Εργαστήριο%20Αρεταίος> .
+_:b6 <http://host/sw/p15taso/myvocab#Μάθημα> <http://host/sw/p15taso/resource/Επεξεργασία%20Ομιλίας%20και%20Ήχου> .
+_:b6 <http://host/sw/p15taso/myvocab#Διδάσκων> <http://host/sw/p15taso/resource/Καρύδης%20Ι.> .
+_:b6 <http://host/sw/p15taso/myvocab#Ημέρα> "Πέμπτη" .
+_:b6 <http://host/sw/p15taso/myvocab#Ώρα Έναρξης> "17:00:00" .
+_:b6 <http://host/sw/p15taso/myvocab#Ώρα Τέλους> "19:00:00" .
+_:b6 <http://host/sw/p15taso/myvocab#Αίθουσα> <http://host/sw/p15taso/resource/Εργαστήριο%20Γαληνός> .
